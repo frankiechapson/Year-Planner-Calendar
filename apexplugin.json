@@ -1,0 +1,31 @@
+{
+  "name" : "Year Planner Calendar",
+  "version" : "1.0",
+  "description" : "This region plug-in displays a full year view calendar.",
+  "keywords" : ["calendar", "yearplanner", "year", "planner"],
+  "homepage" : "https://github.com/frankiechapson/Year-Planner-Calendar",
+  "bugs" : {
+    "url" : "https://github.com/frankiechapson/Year-Planner-Calendar",
+    "email" : "frankie.chapson@gmail.com"
+  },
+  "license" : "GPL",
+  "author" : {
+    "name" : "Ferenc Toth",
+    "email" : "frankie.chapson@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/frankiechapson/Year-Planner-Calendar"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "YEARPLANNER.APEXPLUGIN",
+        "type" : "region",
+        "previewImage" : "https://user-images.githubusercontent.com/39552762/40416939-e27b959a-5e7e-11e8-9eb8-be632fe64925.png"
+      }
+    }
+  }
+}
