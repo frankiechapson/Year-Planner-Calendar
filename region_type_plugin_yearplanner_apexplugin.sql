@@ -101,7 +101,7 @@ wwv_flow_api.create_plugin(
 '    V_DAYS   (  7 ) := ''Su'';',
 '',
 '    V_MONTHS (  1 ) := ''January'';',
-'    V_MONTHS (  2 ) := ''Febuary'';',
+'    V_MONTHS (  2 ) := ''February'';',
 '    V_MONTHS (  3 ) := ''March'';',
 '    V_MONTHS (  4 ) := ''April'';',
 '    V_MONTHS (  5 ) := ''May'';',
