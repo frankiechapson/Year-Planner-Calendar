@@ -24,8 +24,10 @@
       "plugin" : {
         "internalName" : "YEARPLANNER.APEXPLUGIN",
         "type" : "region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=127891:2",
         "previewImage" : "https://user-images.githubusercontent.com/39552762/40416939-e27b959a-5e7e-11e8-9eb8-be632fe64925.png"
       }
     }
   }
 }
+
