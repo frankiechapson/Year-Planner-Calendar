@@ -8,6 +8,11 @@ For example like this:
 
 ![yearplanner](https://user-images.githubusercontent.com/39552762/40416939-e27b959a-5e7e-11e8-9eb8-be632fe64925.png "Sample" )
 
+# Exe version
+It has an exe version for Windows, programmed in Delphi many years ago:
+
+https://drive.google.com/open?id=1XfdTGyWijV1wYhe7KqTbm16B-tAGxVUo
+
 ## There are two ways to define day types: ##
 
 # Leave as it is -> Default pattern #
